@@ -1,0 +1,16 @@
+.class_news{
+    /* height: 420px; */
+    height: 320px;
+    overflow: hidden;
+}
+
+.class_awards{
+    /* height: 420px; */
+    height: 320px;
+    overflow: hidden;
+}
+
+.load_news{
+    color: #5F699F
+}
+/* color="#5F699F" */
