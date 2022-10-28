@@ -35,6 +35,26 @@ body {
 	line-height: 1;
 }
 
+span.newdatenew{
+	float: left;
+	width: 75px;
+	height: 27px;
+    border-radius: 10px;
+    background-color: #ce1030;
+    color: var(--main-color0);
+    padding:0pt 5pt;
+}
+
+span.newdateold{
+	float: left;
+	width: 75px;
+	height: 27px;
+    border-radius: 10px;
+    background-color: #adacac;
+    color: var(--main-color0);
+    padding:0pt 5pt;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -180,6 +200,18 @@ input, select, textarea {
 	h7 {
 		font-size: 0.9em;
 		/* line-height: 1.5em; */
+	}
+
+	news_font_new {
+		font-size: 0.9em;
+		/* line-height: 1.5em; */
+		color: #ffffff;
+	}
+
+	news_font_old {
+		font-size: 0.9em;
+		/* line-height: 1.5em; */
+		color: #000000;
 	}
 
 	sub {
