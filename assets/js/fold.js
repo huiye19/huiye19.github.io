@@ -25,7 +25,7 @@ $(document).ready(function() {
   
   // Load News ---------------------------------
   var newsName = "News";
-  $.get(`./assets/files/${newsName}.txt`, function(data) {
+  $.get(`./assets/js/files/${newsName}.txt`, function(data) {
     var lines = data.split("\n");
     var result = [];
     for (var i = 0; i < lines.length; i++) {
@@ -50,7 +50,7 @@ $(document).ready(function() {
 
   // Loaded Awards ---------------------------------
   var awardName = "Awards";
-  $.get(`./assets/files/${awardName}.txt`, function(data) {
+  $.get(`./assets/js/files/${awardName}.txt`, function(data) {
     var lines = data.split("\n");
     var result = [];
     for (var i = 0; i < lines.length; i++) {
