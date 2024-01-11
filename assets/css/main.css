@@ -42,7 +42,7 @@ span.newdatenew{
     border-radius: 10px;
     background-color: #ce1030;
     color: var(--main-color0);
-    padding:0pt 5pt;
+	padding: 1pt 6pt;
 }
 
 span.newdateold{
@@ -52,7 +52,7 @@ span.newdateold{
     border-radius: 10px;
     background-color: #adacac;
     color: var(--main-color0);
-    padding:0pt 5pt;
+    padding: 1pt 6pt;
 }
 
 ol, ul {

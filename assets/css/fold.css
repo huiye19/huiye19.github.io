@@ -10,7 +10,16 @@
     overflow: hidden;
 }
 
+.p_item{
+    margin:0;
+}
+
 .load_items{
-    color: #5F699F
+    color: #5F699F;
+}
+
+.item_content{
+    font-size: 0.9em;
+    margin-left: 4px;
 }
 /* color="#5F699F" */
