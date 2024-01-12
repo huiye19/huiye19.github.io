@@ -1,3 +1,17 @@
+function extractLinks(str) {
+  // Regular expression to match the pattern
+  const regex = /\[(.*?)\]\(((?:[^)(]+|\((?:[^)(]+|\([^)(]*\))*\))*)\)/g;
+
+  // Use the matchAll() method to find all matches
+  const matches = [...str.matchAll(regex)];
+  matches.map(match => {
+    const linkStr = match[0];
+    str = str.replace(linkStr, `<font color="#5F699F"><a href="${match[2]}">${match[1]}</a></font>`);
+  });
+
+  return str;
+}
+
 function addFoldButton(name,show_num){
   $(`#${name}ItemList .p_item`).each(function(index) {
     if (index >= show_num) {
@@ -33,6 +47,7 @@ $(document).ready(function() {
       var item_date = item[0];
       var item_content = item.slice(1).join(" ");
       var className = (i < highlight_num) ? 'newdatenew' : 'newdateold';
+      item_content = extractLinks(item_content)
       result.push(`<p class="p_item"><span class=${className}><news_font_new>${item_date}</news_font_new></span><span class="item_content">${item_content}</span></p>`);
     }
     var itemList = result.join("");
