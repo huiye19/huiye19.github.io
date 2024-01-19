@@ -34,7 +34,7 @@ function toggleItems(pItems, foldState, show_num) {
 }
 
 $(document).ready(function() {
-  var highlight_num = 6;
+  var highlight_num = 5;
   var show_num = 8;
   
   // Load News ---------------------------------
