@@ -1,4 +1,4 @@
-2024-06 My collaborative paper [Sketch2Human](https://huiye19.github.io/documents/Sketch2Human.pdf) was accepted by IEEE TVCG.
+2024-06 My collaborative paper [Sketch2Human](https://huiye19.github.io/documents/sketch2human.pdf) was accepted by IEEE TVCG.
 2024-05 I serve on the organization co-chair for The 13th international conference on Computational Visual Media (CVM 2025), held in Hong Kong.
 2024-05 I attended CHI'24 in person at Honolulu, Hawaii. Our paper [ProInterAR](https://huiye19.github.io/documents/prointerar.pdf) is presented and we show a hot-desk demo. I also chaired the session "Immersive Experiences: Creating and Communicating".
 2024-04 I will serve on program committee for Pacific Graphics (PG) 2024.
