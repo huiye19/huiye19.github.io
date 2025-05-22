@@ -1,7 +1,9 @@
-2025-03 We are organizing the [First Hong Kong AMC AI Film Festival](https://cveu.github.io/event/amcfilm2025.html) with [CVM 2025](http://iccvm.org/2025/) on April 19. Welcome you to join this event if you are interested.
+2025-05 I will serve as a Program Committee member for the SIGGRAPH Asia 2025 Emerging Technologies.
+2025-04 I am invited to give a talk and share my experience about [Interdisciplinary Research on HCI, CG, and Communication](https://www.cgn.net.cn/cms/news/100000/0000000022/f2574be21d3a414087434b3caa43f380.shtml) at Striving for Excellence PhD Workshop, Chinese Society of Graphic Science.
+2025-03 We are organizing the [First HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html) with [CVM 2025](http://iccvm.org/2025/) on April 19. This event has garnered significant attention, receiving coverage from over 200 media outlets worldwide.
 2025-03 I will serve as a member of the technical program committee (TPC) for ISWC Notes and Briefs of UbiComp/ISWC 2025.
 2025-02 I will serve as a member of the International Program Committee (IPC) of the CAD/Graphics 2025.
-2024-12 I serve as the Media Design Chair for the Computer Graphics International 2025 (CGI 2025).
+2024-12 I serve as the Web Chair for the Computer Graphics International 2025 (CGI 2025).
 2024-12 I will serve as an International Program Committee (IPC) member for the 9th ACM/EG Expressive Symposium (Expressive 2025).
 2024-12 I attend SIGGRAPH Asia 2024 at Tokyo.
 2024-11 I serve as the MC for the opening of the exhibition "[Altering Nature: Exploring Life in Computational Art](https://mp.weixin.qq.com/s/_EPj8wKEdIY3V7rbbDbVgw)" at HKUST.
