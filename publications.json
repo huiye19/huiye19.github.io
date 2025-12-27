@@ -1,0 +1,180 @@
+{
+  "publications": [
+    {
+      "title": "GenFODrawing: Supporting Creative Found Object Drawing with Generative AI",
+      "authors": [
+        "Jiaye Leng",
+        "Hui Ye",
+        "Pengfei Xu",
+        "Miu-Ling Lam",
+        "Hongbo Fu†"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025",
+      "thumbnail": "images/genfodrawing.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://jiayeleng.github.io/static/projects/GenFODrawing/pdfs/GenFODrawing.pdf",
+        "project": "https://jiayeleng.github.io/GenFODrawing.html"
+      }
+    },
+    {
+      "title": "MoGraphGPT: Creating Interactive Scenes Using Modular LLM and Graphical Control",
+      "authors": [
+        "Hui Ye",
+        "Chufeng Xiao",
+        "Jiaye Leng",
+        "Pengfei Xu",
+        "Hongbo Fu†"
+      ],
+      "venue": "arXiv preprint, 2025",
+      "thumbnail": "images/mographgpt.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2502.04983"
+      }
+    },
+    {
+      "title": "ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions",
+      "authors": [
+        "Hui Ye*",
+        "Jiaye Leng*",
+        "Pengfei Xu",
+        "Karan Singh",
+        "Hongbo Fu†"
+      ],
+      "venue": "ACM CHI 2024",
+      "thumbnail": "images/prointerar.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/prointerar.pdf",
+        "video": "https://www.youtube.com/watch?v=n7rIRIqmWqA",
+        "preview": "https://www.youtube.com/watch?v=eeqxU0ZcJO4",
+        "supplemental": "https://www.youtube.com/watch?v=UCf7U0DFEqk"
+      }
+    },
+    {
+      "title": "ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+      "authors": [
+        "Hui Ye",
+        "Jiaye Leng",
+        "Chufeng Xiao",
+        "Lili Wang",
+        "Hongbo Fu†"
+      ],
+      "venue": "ACM CHI 2023",
+      "thumbnail": "images/proobjar.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/proobjar.pdf",
+        "video": "https://www.youtube.com/watch?v=YnkOdbIkooc",
+        "preview": "https://www.youtube.com/watch?v=Fh4N6mBAQuQ"
+      }
+    },
+    {
+      "title": "ProGesAR: Mobile AR Prototyping for Proxemic and Gestural Interactions with Real-world IoT Enhanced Spaces",
+      "authors": [
+        "Hui Ye",
+        "Hongbo Fu†"
+      ],
+      "venue": "ACM CHI 2022",
+      "thumbnail": "images/progesar.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/progesar.pdf",
+        "video": "https://www.youtube.com/watch?v=j1i0dKspK1A"
+      }
+    },
+    {
+      "title": "3D Curve Creation on and around Physical Objects with Mobile AR",
+      "authors": [
+        "Hui Ye",
+        "Kin Chung Kwan",
+        "Hongbo Fu†"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021",
+      "thumbnail": "images/3Dcurvecreation.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/curve.pdf",
+        "video": "https://youtu.be/t2EyxRV8Eo4"
+      }
+    },
+    {
+      "title": "ARAnimator: In-situ Character Animation in Mobile AR with User-defined Motion Gestures",
+      "authors": [
+        "Hui Ye*",
+        "Kin Chung Kwan*",
+        "Wanchao Su",
+        "Hongbo Fu†"
+      ],
+      "venue": "ACM Transactions on Graphics (SIGGRAPH 2020)",
+      "thumbnail": "images/aranimator.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/aranimator.pdf",
+        "video": "https://www.youtube.com/watch?v=JFLDZPSI0h4"
+      }
+    },
+    {
+      "title": "Predict-and-Drive: Avatar Motion Adaption in Room-Scale Augmented Reality Telepresence with Heterogeneous Spaces",
+      "authors": [
+        "Xuanyu Wang",
+        "Hui Ye",
+        "Christian Sandor",
+        "Weizhan Zhang†",
+        "Hongbo Fu†"
+      ],
+      "venue": "IEEE TVCG (ISMAR 2022)",
+      "thumbnail": "images/predictanddrive.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/predictanddrive.pdf",
+        "video": "https://www.youtube.com/watch?v=dDssN8Ak9Xo"
+      }
+    },
+    {
+      "title": "DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN",
+      "authors": [
+        "Wanchao Su",
+        "Hui Ye",
+        "Shu-Yu Chen",
+        "Lin Gao",
+        "Hongbo Fu†"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022",
+      "thumbnail": "images/drawinginstyles.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/drawinginstyles.pdf",
+        "video": "https://www.youtube.com/watch?v=5qbw4dofoMQ&feature=youtu.be"
+      }
+    },
+    {
+      "title": "Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Control",
+      "authors": [
+        "Linzi Qu",
+        "Jiaxiang Shang",
+        "Hui Ye",
+        "Xiaoguang Han",
+        "Hongbo Fu†"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024",
+      "thumbnail": "images/sketch2human.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://huiye19.github.io/documents/sketch2human.pdf",
+        "video": "https://www.youtube.com/watch?v=PSv4PuZnHfA&ab_channel=HongboFu"
+      }
+    }
+  ]
+}
