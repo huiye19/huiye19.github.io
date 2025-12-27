@@ -266,6 +266,10 @@ section {
   gap: 1.25rem;
 }
 
+.publication-item:last-child {
+  border-bottom: none;
+}
+
 .pub-thumbnail {
   width: 150px;
   height: 84px;
@@ -373,6 +377,75 @@ section {
   background-color: var(--accent-color);
   transform: translateX(3px);
   box-shadow: 0 2px 5px rgba(206, 16, 48, 0.2);
+}
+
+/* Book sections */
+.book-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-color);
+  transition: transform var(--transition-time) ease;
+}
+
+.book-item:hover {
+  transform: translateX(var(--animation-offset));
+}
+
+.book-item:last-child {
+  border-bottom: none;
+}
+
+.book-number {
+  font-weight: 600;
+  color: var(--accent-color);
+  flex-shrink: 0;
+  width: 30px;
+}
+
+.book-content {
+  flex: 1;
+}
+
+.book-authors {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.3rem;
+  line-height: 1.5;
+}
+
+.book-title {
+  font-weight: 500;
+  font-size: 1.05rem;
+  margin-bottom: 0.3rem;
+}
+
+.book-venue {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
+
+.book-chapter {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.book-awards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.4rem;
+}
+
+.book-award {
+  font-size: 0.8rem;
+  background-color: rgba(206, 16, 48, 0.08);
+  color: var(--accent-color);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
 }
 
 /* Awards section */
